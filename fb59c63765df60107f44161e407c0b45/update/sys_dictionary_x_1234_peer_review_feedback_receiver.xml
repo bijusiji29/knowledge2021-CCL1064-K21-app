@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -33,7 +33,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>32</max_length>
         <name>x_1234_peer_review_feedback</name>
         <next_element/>
@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-12 21:01:26</sys_created_on>
-        <sys_id>eff0c1ec65abe0107f44161e407c0b10</sys_id>
+        <sys_id>9eab3eb6b4c034107f4483819a61bfac</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Receiver</sys_name>
         <sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope>
         <sys_update_name>sys_dictionary_x_1234_peer_review_feedback_receiver</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-12 21:01:26</sys_updated_on>
+        <sys_updated_on>2021-05-15 11:56:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
